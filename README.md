@@ -1,2 +1,2 @@
 # AED-ACAMA
-Repositorio dedicado a los trabajos practicos de la catedra K1053
+Repositorio dedicado a los trabajos practicos de la catedra K1053 y del grupo 3.
